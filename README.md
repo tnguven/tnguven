@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Tan 👋
 
-<!--
-**tnguven/tnguven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on MERN Stack, Golang, Grpc, GraphQL and Kubernetes content!
+- 🌱 I’m currently learning Google GKE.
+- 💬 Ask me about JavaScript, Full Stack development, MERN, and building functional programing stuff!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Nothing can escape a node_modules folder, folder is curved to the point where all directions are actually pointing inside. The escape velocity from within a node_module folder's event horizon is faster than the speed of light, hence light cannot go at that speed and thus cannot escape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📦 [npm][npm] **|** 
+👔 [linkedin][linkedin]
+
+Shoutout to [Brad Garropy][brad] for the inspiration!
+
+[website]: http://cagcacaga.com
+[twitter]: https://twitter.com/onexpectedtoken
+[linkedin]: https://www.linkedin.com/in/tan-g%C3%BCven/
+[npm]: https://npmjs.com/~tanguven
+[brad]: https://github.com/bradgarropy
