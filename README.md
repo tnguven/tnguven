@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on MERN Stack, Golang, Grpc, GraphQL and Kubernetes content!
 - 🌱 I’m currently learning Google GKE.
 - 💬 Ask me about JavaScript, Full Stack development, MERN, and building functional programing stuff!
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Nothing can escape a node_modules folder, folder is curved to the point where all directions are actually pointing inside. The escape velocity from within a node_module folder's event horizon is faster than the speed of light, hence light cannot go at that speed and thus cannot escape.
 
 
