@@ -13,6 +13,10 @@
 📦 [npm][npm] **|** 
 👔 [linkedin][linkedin]
 
+[![tan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cagacaga&layout=compact&theme=dracula)](https://github.com/tnguven/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnguven&count_private=true&layout=compact&theme=dracula)](https://github.com/tnguven/github-readme-stats)
+
+
 Shoutout to [Brad Garropy][brad] for the inspiration!
 
 [website]: http://cagcacaga.com
@@ -20,3 +24,4 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 [linkedin]: https://www.linkedin.com/in/tan-g%C3%BCven/
 [npm]: https://npmjs.com/~tanguven
 [brad]: https://github.com/bradgarropy
+
