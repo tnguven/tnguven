@@ -10,6 +10,7 @@
 
 [![tan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cagacaga&layout=compact&theme=dracula)](https://github.com/tnguven/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/7b780232-9007-489e-a6e0-95b19646aef9.svg)](https://wakatime.com/@7b780232-9007-489e-a6e0-95b19646aef9)
 
 [website]: http://cagcacaga.com
 [twitter]: https://twitter.com/onexpectedtoken
