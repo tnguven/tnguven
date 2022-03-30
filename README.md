@@ -7,9 +7,6 @@
 - 💬 Ask me about JavaScript, Full Stack development, MERN, and building functional programing stuff!
 - ⚡ Fun fact: Nothing can escape a node_modules folder, folder is curved to the point where all directions are actually pointing inside. The escape velocity from within a node_module folder's event horizon is faster than the speed of light, hence light cannot go at that speed and thus cannot escape.
 
-
-[![tan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanguven&layout=compact&theme=dracula)](https://github.com/tnguven/github-readme-stats)
-
 [![wakatime](https://wakatime.com/badge/user/7b780232-9007-489e-a6e0-95b19646aef9.svg)](https://wakatime.com/@7b780232-9007-489e-a6e0-95b19646aef9)
 
 [website]: http://cagcacaga.com
