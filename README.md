@@ -27,6 +27,5 @@ If you want to get in touch, you can reach me via email at [gongorgojo@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/7b780232-9007-489e-a6e0-95b19646aef9.svg)](https://wakatime.com/@7b780232-9007-489e-a6e0-95b19646aef9)
 
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
