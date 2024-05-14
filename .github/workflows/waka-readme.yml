@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * 0" # every week on Sunday 00:00
 
 jobs:
   update-readme:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
@@ -20,7 +20,7 @@ jobs:
           # SHOW_TITLE: true # optional
           # SECTION_NAME: waka # optional
           # BLOCKS: -> # optional
-          # TIME_RANGE: all_time # optional
+          TIME_RANGE: all_time # optional
           LANG_COUNT: 15 # optional
           # SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
@@ -28,11 +28,11 @@ jobs:
           # STOP_AT_OTHER: true # optional
           # IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          COMMIT_MESSAGE: Update waka-readme graph with new metrics 
           TARGET_BRANCH: master
           TARGET_PATH: ./README.md
           COMMITTER_NAME: tnguven
           COMMITTER_EMAIL: tanguven@gmail.com
-          AUTHOR_NAME: tnguven
+          AUTHOR_NAME: TanGuven
           AUTHOR_EMAIL: tanguven@gmail.com
  

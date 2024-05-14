@@ -9,7 +9,6 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 | <a href="https://github.com/tnguven"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tnguven&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Gonzalo Gorgojo's github stats" /></a> | <a href="https://github.com/tnguven"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnguven&layout=compact&theme=gotham&hide_border=true" /></a> |
 
 <!--START_SECTION:waka-->
-
 ```txt
 From: 22 May 2016 - To: 13 March 2024
 
@@ -26,5 +25,4 @@ HTML                       194 hrs 22 mins -------------------------   01.70 %
 Bash                       137 hrs 57 mins -------------------------   01.20 %
 Markdown                   81 hrs 6 mins   -------------------------   00.71 %
 ```
-
 <!--END_SECTION:waka-->
