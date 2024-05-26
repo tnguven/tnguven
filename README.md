@@ -11,13 +11,13 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11,260 hrs 5 mins
+Total Time: 11,262 hrs 11 mins
 
-JavaScript                 5,981 hrs 38 mins█████████████░░░░░░░░░░░░   52.00 %
-TypeScript                 2,290 hrs 26 mins█████░░░░░░░░░░░░░░░░░░░░   19.91 %
+JavaScript                 5,981 hrs 39 mins█████████████░░░░░░░░░░░░   51.99 %
+TypeScript                 2,292 hrs 20 mins█████░░░░░░░░░░░░░░░░░░░░   19.92 %
 JSON                       618 hrs 53 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 SCSS                       453 hrs 11 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-YAML                       435 hrs 38 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+YAML                       435 hrs 47 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 sh                         404 hrs 48 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 Other                      242 hrs 50 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 HTML                       195 hrs 56 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
