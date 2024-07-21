@@ -11,22 +11,22 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11,404 hrs 57 mins
+Total Time: 11,413 hrs 43 mins
 
-JavaScript                 5,983 hrs 51 mins█████████████░░░░░░░░░░░░   51.37 %
-TypeScript                 2,386 hrs 17 mins█████░░░░░░░░░░░░░░░░░░░░   20.49 %
-JSON                       623 hrs 25 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+JavaScript                 5,984 hrs 5 mins████████████▓░░░░░░░░░░░░   51.33 %
+TypeScript                 2,387 hrs 47 mins█████░░░░░░░░░░░░░░░░░░░░   20.48 %
+JSON                       624 hrs 3 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 SCSS                       453 hrs 11 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 YAML                       439 hrs         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-sh                         404 hrs 48 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Other                      243 hrs 40 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+sh                         404 hrs 48 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Other                      243 hrs 45 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 HTML                       195 hrs 56 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 Bash                       138 hrs 22 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Go                         102 hrs 35 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Markdown                   83 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Go                         108 hrs 33 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Markdown                   83 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 Docker                     81 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Python                     77 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Makefile                   74 hrs 17 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python                     77 hrs 29 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Makefile                   74 hrs 35 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 GraphQL                    59 hrs 22 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
