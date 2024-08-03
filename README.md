@@ -1,6 +1,6 @@
 ## Hi, I'm Tan 👋
 
-Welcome to my Github profile, I´m a Software Developer currently working at [PrimaryBid](https://primarybid.com/). On this page, you'll find some of my personal projects, as well as contributions to open source software. Feel free to explore, fork, and leave feedback if you find something interesting.
+Welcome to my Github profile, I´m a Software Developer. On this page, you'll find some of my personal projects, as well as contributions to open source software. Feel free to explore, fork, and leave feedback if you find something interesting.
 
 ### 📫 Get in touch
 
