@@ -11,22 +11,22 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11,543 hrs 30 mins
+Total Time: 11,552 hrs 52 mins
 
-JavaScript                 5,990 hrs 43 mins████████████▓░░░░░░░░░░░░   50.82 %
-TypeScript                 2,416 hrs 4 mins█████░░░░░░░░░░░░░░░░░░░░   20.50 %
-JSON                       626 hrs 59 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+JavaScript                 5,992 hrs 16 mins████████████▓░░░░░░░░░░░░   50.79 %
+TypeScript                 2,417 hrs 58 mins█████░░░░░░░░░░░░░░░░░░░░   20.50 %
+JSON                       627 hrs         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 SCSS                       453 hrs 12 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-YAML                       441 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+YAML                       441 hrs 39 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 sh                         404 hrs 48 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 Other                      244 hrs 8 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Go                         198 hrs 23 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 HTML                       195 hrs 56 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Go                         193 hrs 3 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Bash                       138 hrs 36 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Markdown                   84 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Bash                       138 hrs 36 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Markdown                   84 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 Docker                     81 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 Python                     77 hrs 29 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Makefile                   75 hrs 50 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Makefile                   76 hrs 3 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 GraphQL                    59 hrs 22 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
