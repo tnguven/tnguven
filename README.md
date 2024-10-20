@@ -11,23 +11,23 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11,728 hrs 47 mins
+Total Time: 11,753 hrs 3 mins
 
-JavaScript                 5,997 hrs 33 mins████████████▓░░░░░░░░░░░░   50.07 %
-TypeScript                 2,540 hrs 46 mins█████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-JSON                       634 hrs 17 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JavaScript                 5,998 hrs 31 mins████████████▒░░░░░░░░░░░░   49.98 %
+TypeScript                 2,556 hrs 28 mins█████▒░░░░░░░░░░░░░░░░░░░   21.30 %
+JSON                       635 hrs 8 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 SCSS                       453 hrs 12 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-YAML                       448 hrs 13 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-sh                         404 hrs 48 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Other                      249 hrs 12 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Go                         198 hrs 23 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-HTML                       195 hrs 58 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Bash                       141 hrs 28 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Python                     95 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Markdown                   88 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+YAML                       448 hrs 14 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+sh                         404 hrs 48 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other                      249 hrs 35 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Go                         198 hrs 23 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+HTML                       195 hrs 58 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Bash                       145 hrs 8 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Python                     96 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Markdown                   89 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 Docker                     81 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Makefile                   76 hrs 3 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-GraphQL                    59 hrs 22 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+GraphQL                    59 hrs 22 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
