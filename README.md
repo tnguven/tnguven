@@ -11,22 +11,22 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12,066 hrs 9 mins
+Total Time: 12,093 hrs 6 mins
 
-JavaScript                 6,007 hrs 45 mins████████████▒░░░░░░░░░░░░   48.71 %
-TypeScript                 2,789 hrs 44 mins█████▓░░░░░░░░░░░░░░░░░░░   22.62 %
-JSON                       647 hrs 31 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-YAML                       456 hrs 3 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+JavaScript                 6,007 hrs 49 mins████████████░░░░░░░░░░░░░   48.61 %
+TypeScript                 2,802 hrs 3 mins█████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+JSON                       648 hrs 21 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+YAML                       456 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 SCSS                       453 hrs 12 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 sh                         404 hrs 48 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Other                      267 hrs 5 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Go                         207 hrs 20 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Other                      267 hrs 6 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Go                         209 hrs 38 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 HTML                       196 hrs 30 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Bash                       156 hrs 58 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Bash                       156 hrs 59 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Markdown                   102 hrs 47 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 Python                     99 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Docker                     96 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Markdown                   93 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Makefile                   76 hrs 57 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Docker                     96 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Makefile                   78 hrs 15 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 GraphQL                    59 hrs 22 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
