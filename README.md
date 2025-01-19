@@ -11,22 +11,22 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12,110 hrs 35 mins
+Total Time: 12,113 hrs 38 mins
 
-JavaScript                 6,009 hrs 45 mins████████████░░░░░░░░░░░░░   48.55 %
-TypeScript                 2,809 hrs 14 mins█████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+JavaScript                 6,009 hrs 45 mins████████████░░░░░░░░░░░░░   48.54 %
+TypeScript                 2,810 hrs 51 mins█████▓░░░░░░░░░░░░░░░░░░░   22.70 %
 JSON                       650 hrs 19 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 YAML                       457 hrs 58 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 SCSS                       453 hrs 12 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-sh                         404 hrs 48 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Other                      267 hrs 30 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Go                         210 hrs 20 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+sh                         404 hrs 49 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Other                      267 hrs 39 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Go                         211 hrs 16 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 HTML                       196 hrs 30 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 Bash                       157 hrs 13 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Markdown                   102 hrs 52 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Markdown                   103 hrs 12 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 Docker                     100 hrs 10 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Python                     99 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Makefile                   78 hrs 23 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Makefile                   78 hrs 30 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 GraphQL                    59 hrs 22 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
