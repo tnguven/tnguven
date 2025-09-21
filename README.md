@@ -11,22 +11,22 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12,812 hrs 58 mins
+Total Time: 12,840 hrs 20 mins
 
-JavaScript                    6,046 hrs 55 mins███████████▓░░░░░░░░░░░░░   46.19 %
-TypeScript                    2,940 hrs 30 mins█████▓░░░░░░░░░░░░░░░░░░░   22.46 %
-JSON                          691 hrs 21 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Go                            550 hrs 5 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-YAML                          495 hrs 16 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-SCSS                          453 hrs 12 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+JavaScript                    6,050 hrs 55 mins███████████▓░░░░░░░░░░░░░   46.12 %
+TypeScript                    2,940 hrs 34 mins█████▓░░░░░░░░░░░░░░░░░░░   22.41 %
+JSON                          695 hrs 9 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Go                            565 hrs 50 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+YAML                          495 hrs 37 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+SCSS                          453 hrs 12 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 sh                            404 hrs 54 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Other                         278 hrs 32 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Other                         278 hrs 33 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 HTML                          198 hrs 3 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Bash                          167 hrs 6 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Docker                        117 hrs 31 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Markdown                      111 hrs 22 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Python                        107 hrs 53 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Makefile                      86 hrs 44 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Bash                          167 hrs 14 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Docker                        117 hrs 32 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Markdown                      111 hrs 39 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python                        108 hrs 26 mins ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Makefile                      86 hrs 46 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 GraphQL                       65 hrs 39 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
