@@ -11,23 +11,23 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13,506 hrs 46 mins
+Total Time: 13,519 hrs 13 mins
 
-JavaScript                    6,060 hrs 30 mins     ███████████░░░░░░░░░░░░░░   43.93 %
-TypeScript                    3,032 hrs 4 mins      █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-Go                            936 hrs               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-JSON                          709 hrs 43 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-YAML                          520 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-SCSS                          453 hrs 12 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-sh                            404 hrs 54 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Other                         288 hrs 35 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-HTML                          198 hrs 6 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Bash                          181 hrs 41 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+JavaScript                    6,060 hrs 33 mins     ███████████░░░░░░░░░░░░░░   43.89 %
+TypeScript                    3,035 hrs 34 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
+Go                            941 hrs 44 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JSON                          710 hrs 49 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+YAML                          520 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+SCSS                          453 hrs 12 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+sh                            404 hrs 54 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Other                         288 hrs 52 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+HTML                          198 hrs 6 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Bash                          181 hrs 53 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Docker                        128 hrs 10 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 Python                        127 hrs 57 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Docker                        127 hrs 39 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Markdown                      118 hrs 51 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Markdown                      118 hrs 53 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 Makefile                      94 hrs 5 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Terraform                     69 hrs 57 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Terraform                     70 hrs 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
