@@ -11,22 +11,22 @@ If you want to get in touch, you can reach me via email at [tanguven@gmail.com](
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13,622 hrs 49 mins
+Total Time: 13,632 hrs 13 mins
 
-JavaScript                    6,061 hrs 15 mins     ███████████░░░░░░░░░░░░░░   43.46 %
-TypeScript                    3,055 hrs 5 mins      █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-Go                            973 hrs 17 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-JSON                          715 hrs 20 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-YAML                          522 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+JavaScript                    6,061 hrs 15 mins     ███████████░░░░░░░░░░░░░░   43.43 %
+TypeScript                    3,056 hrs 48 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+Go                            977 hrs 25 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+JSON                          716 hrs 19 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+YAML                          523 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 SCSS                          453 hrs 12 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 sh                            405 hrs 1 min         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Other                         322 hrs 58 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Other                         323 hrs 24 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 HTML                          198 hrs 6 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Bash                          186 hrs 41 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Python                        131 hrs 51 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Bash                          188 hrs 18 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Python                        131 hrs 52 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 Docker                        128 hrs 39 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Markdown                      124 hrs 13 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Makefile                      95 hrs 54 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Markdown                      124 hrs 45 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Makefile                      95 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 Terraform                     83 hrs 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
